@@ -1,7 +1,7 @@
 openapi: 3.0.0
 servers:
   - description: KETI CMM(Chassis Manage Module) and CM(Computing Module) Redfish API
-    url: https://virtserver.swaggerhub.com/K4758/KETI_Edge_SDK/1.0.0
+    url: https://virtserver.swaggerhub.com/hwangdaewoong/KETI_Edge_SDK/1.0.0
 info:
   description: >
     이 문서는 샷시 매니저 모듈에서 관리하고 있는 컴퓨팅 모듈, 스토리지 모듈에 대해 모니터링, 제어 관리하기 위한 API를 제공한다.
